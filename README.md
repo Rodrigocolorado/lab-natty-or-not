@@ -21,8 +21,9 @@ O video deixa claro que as IAs ja estão bem evoluidas, com espressões faciais 
 
 <h2>CLIQUE NA FIGURA PARA VISUALIZAR O SITE<h2>
     <h3>
- <a  href="https://rodrigocolorado.github.io/html-dio/">
-  <img align="center" width="100px" src="[https://github.com/Rodrigocolorado/modulo-1-html/blob/main/images.png](https://studio.d-id.com/share?id=bed0032bb059d1bb04843a26dee69061&utm_source=copy)"></a>
-</h3>
+ <a  href="https://studio.d-id.com/share?id=bed0032bb059d1bb04843a26dee69061&utm_source=copy">
+  <img align="center" width="100px" src="[https://github.com/Rodrigocolorado/modulo-1-html/blob/main/images.png]"></a>
+</h3> 
+
 
 ☀☀☀☀☀☀☀☀☀☀☀☀☀⭐⭐⭐⭐⭐⭐⭐⭐⭐☀☀☀☀☀☀☀☀☀☀☀☀☀
