@@ -27,4 +27,4 @@ O video deixa claro que as IAs ja estão bem evoluidas, com espressões faciais 
 
 
 
-☀☀☀☀👆👆👆👆👆☀☀☀☀
+👆👆👆
